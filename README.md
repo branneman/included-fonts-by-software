@@ -1,12 +1,12 @@
 # Included fonts by software
 
-## Index
+## Operating systems
  - Microsoft Windows
  - Apple OS X
- - Apple iOS [todo]
- - Android [todo]
- - Windows Phone [todo]
- - Blackberry OS [todo]
+ - Apple iOS
+ - [todo] Android
+ - [todo] Windows Phone
+ - [todo] Blackberry OS
  - Microsoft Office
  - Adobe Creative Suite
 
@@ -29,7 +29,7 @@
  - [OS X 10.8 Mountain Lion](http://support.apple.com/kb/HT5379)
 
 ## Apple iOS
-For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/), then select a version.
+For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/), then select a version to see the included fonts.
 
 ## Android
 ..todo...

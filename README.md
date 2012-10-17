@@ -46,7 +46,6 @@ For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/
  - [Office 2003 fonts](http://www.microsoft.com/typography/fonts/product.aspx?PID=143)
  - [Office 2002 fonts](http://office.microsoft.com/en-us/powerpoint-help/fonts-that-ship-with-different-versions-of-office-HA010282644.aspx#BM4)
  - [Office 2000 Premium fonts](http://www.microsoft.com/typography/fonts/product.aspx?PID=90)
- - [Office 2000 fonts]()
  - [Office 4.3](http://www.microsoft.com/typography/fonts/product.aspx?PID=123)
 
 ## Adobe Creative Suite

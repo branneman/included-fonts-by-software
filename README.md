@@ -1,6 +1,6 @@
 # Included fonts by software
 
-## Operating systems
+## Index
  - Microsoft Windows
  - Apple OS X
  - Apple iOS
@@ -28,6 +28,12 @@
  - [OS X 10.7 Lion](http://support.apple.com/kb/HT5098)
  - [OS X 10.8 Mountain Lion](http://support.apple.com/kb/HT5379)
 
+## Ubuntu
+..todo...
+
+## ChromeOS
+..todo...
+
 ## Apple iOS
 For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/), then select a version to see the included fonts.
 
@@ -47,6 +53,9 @@ For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/
  - [Office 2002 fonts](http://office.microsoft.com/en-us/powerpoint-help/fonts-that-ship-with-different-versions-of-office-HA010282644.aspx#BM4)
  - [Office 2000 Premium fonts](http://www.microsoft.com/typography/fonts/product.aspx?PID=90)
  - [Office 4.3](http://www.microsoft.com/typography/fonts/product.aspx?PID=123)
+
+## LibreOffice
+..todo...
 
 ## Adobe Creative Suite
  - [Creative Suite 6](http://www.adobe.com/type/browser/fontinstall/cs6installedfonts.html)

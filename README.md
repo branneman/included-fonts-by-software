@@ -38,7 +38,9 @@
 For the various fonts included with iOS, see [iosfonts.com](http://iosfonts.com/), then select a version to see the included fonts.
 
 ## Android
-..todo...
+ - Droid Sans
+ - Droid Serif
+ - Droid Sans Mono
 
 ## Windows Phone
 ..todo...
